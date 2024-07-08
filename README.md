@@ -1,2 +1,2 @@
 # Three-aiQuestionsAPI
- Back-end project using Python (fastAPI)
+ Back-end project using Python (FastAPI)
